@@ -8,5 +8,5 @@ This is for Smart India Hackathon 2023.
 npm install
 npm start
 ```
-
+To have a look at project screenshot - 
 Frontend at - https://github.com/vanshkathpalia/sih_project_frontend
